@@ -1,0 +1,124 @@
+{
+    "shops": "المتاجر",
+    "categories": "الأقسام",
+    "products": "المنتجات",
+    "orders": "الطلبات",
+
+
+    "name": "الاسم",
+    "image": "الصورة",   
+
+    "profile": "الملف الشخصي",
+    "first name": "الاسم",
+    "last name": "الكنية",
+    "profile picture": "صورة الملف الشخصي",
+    "number": "الرقم",
+    "email": "الإيميل",
+    "password": "كلمة المرور",
+
+    "total price": "سعر المنتجات",
+    "delivery cost": "سعر التوصيل",
+    "price": "السعر",
+    "quantity": "الكمية",
+    "discount": "الخصم",
+
+    "total delivery cost": "سعر الطلب كامل",
+    "status": "حالة الطلب",
+        "canceled": "ملغى",
+        "pending": "قيد الانتظار",
+        "delivered": "تم التوصيل",
+        "delivering": "في الطريق",
+
+   "location": "الموقع",
+    "longitude": "خط الطول",
+    "langitude": "خط العرض",
+    "city": "المدينة",
+    "street": "الحي",
+
+    "favourites": "المفضلة",
+    "cart": "السلة",
+    "browse": "التصفح",
+    "search": "البحث",
+
+
+    "shops sent": "تم إرسال المتاجر",
+    "categories sent": "تم إرسال الأقسام",
+    "products sent": "تم إرسال معلومات المنتجات",
+
+
+    "shop not found": "لم نجد المتجر",
+    "category not found": "لم نجد القسم",
+    "product not found": "لم نجد المنتج",
+
+
+    "An error occurred while creating shop": "حدث خطأ أثناء إنشاء المتجر",
+    "an error occured while creating category": "حدث خطأ أثناء إنشاء القسم",
+    "an error occured while creating product": "حدث خطأ أثناء إنشاء المنتج",
+    "an error occured while updating product": "حدث خطأ أثناء تحديث المنتج",
+
+
+    "shop added" : "تم إضافة المتجر",
+    "category added": "تم إضافة القسم ",
+    "product added": "تم إضافة المنتج ",
+    "order added": "تم إضافة الطلب ",
+
+
+    "shop details sent": "تم إرسال تفاصيل المتجر",
+    "category details sent": "تم إرسال تفاصيل القسم",
+    "product details sent": "تم إرسال تفاصيل المنتج",
+    "order details sent": "تم إرسال تفاصيل الطلب",
+
+
+    "product deleted": "تم حذف المنتج",
+    "product updated": "تم تعديل المنتج",
+
+
+    "order canceled": "تم إلغاء الطلب",
+
+
+
+    "you're not authorized": "غير مسموح لك القيام بهذا الإجراء",
+    "Validation failed" : "فشل التحقق",
+
+
+    "you're ordering more quantity than exists": "أنت تطلب كمية أكبر من الموجودة",
+    "order status updated successfully": "تم تحديث حالة الطلب بنجاح",
+    "status value is not one of these values [Pending,Canceled,delivering,deliverd]": "قيمة الحالة ليست واحدة من هذه القيم [معلق، ملغى، جاري التسليم، تم التسليم]",
+
+
+    "profile updated successfully": "تم التعديل على الملف الشخصي بنجاح",
+
+    "invalid credintials": "البيانات غير متطابقة",
+    "login successfully": "تم تسجيل الدخول بنجاح",
+    "account created successfully": "تم إنشاء الحساب بنجاح",
+    "logout successfully": "تم تسجيل الخروج بنجاح",
+    "there's already an account with this number": "يوجد بالفعل حساب بهذا الرقم",
+    
+
+  "language changed successfully": "تم تغيير اللغة بنجاح",
+  "language not supported" :"اللغة غير مدعومة" ,
+
+
+"product already in favourites": "المنتج موجود بالفعل في المفضلة",
+"product is not in favourites": "المنتج غير موجود بالمفضلة",
+"product added to favourites": "إضافة المنتج إلى المفضلة",
+"producte remove from favourites": "إزالة المنتج من المفضلة",
+"there is no products in this user favourite list": "لا يوجد منتجات في قائمةالمفضلة للمستخدم",
+"user favourite products sent successfully" : " تم إرسال المنتجات المفضلة للمستخدم بنجاح",
+
+
+
+    
+    "location added successfully": "تم إضافة الموقع بنجاح",
+    
+    "password changed successfully": "تم تعديل كلمة المرور بنجاح",
+    "order updated successfully": "تم تعديل الطلب بنجاح",
+
+    "order delivered": "تم توصيل الطلب",
+    "confirm order": "تأكيد الطلب"
+
+
+
+
+    
+}
